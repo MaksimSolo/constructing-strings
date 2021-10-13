@@ -1,2 +1,3 @@
-# constructing-strings
-constructing-strings-with-variables
+// Only change code below this line
+var myName = "Maksim";
+var myStr = "My name is " + myName + "and I am well!";
